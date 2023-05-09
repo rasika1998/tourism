@@ -1,0 +1,46 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-image: url(../images/org1.webp);
+    background-size: cover;
+background-position: fixed;}
+#logo{
+    height:7%;
+    width:5%;
+    margin-left:90px;
+}
+.nav-item{
+    border: 1px solid white;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+margin-right: 8px;
+}
+.nav-item>a:hover{
+    background-color:teal;
+color:black !important;
+}
+.container{
+    margin-top:150px;
+}
+.textall{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.formlog{
+    background-color: beige;
+    border:2px solid red;
+    width:85%;
+}
+#log_b{
+    width:100%;
+}
+#contact-form{
+    background-color: beige;
+    border:2px solid red;
+    width:85%;
+    height:100%;
+    padding: 5px;
+}
+.dis{
+    background-color: beige;
+}
